@@ -1,5 +1,3 @@
-import React from "react";
-
 const Card = ({ title, excerpt, date, company }) => {
 	return (
 		<div className='card mx-auto'>

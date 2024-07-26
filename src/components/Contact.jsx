@@ -1,4 +1,4 @@
-import React, { useRef, useState } from "react";
+import { useRef, useState } from "react";
 import emailjs from "@emailjs/browser";
 import {
 	LINKEDIN_SVG,
@@ -114,7 +114,7 @@ export default function Contact() {
 						</p>
 
 						<p className='text-lg font-normal font-manrope'>
-							For more info, here's my{" "}
+							For more info, here&rsquo;s my{" "}
 							<a
 								href='https://drive.google.com/file/d/1wZ3JY2YKwz7J4kZLsQ7h2X9lQXQ0VZ5o/view?usp=sharing'
 								className='w-fit text-white uppercase border-b border-[#FFC000] text-lg'>

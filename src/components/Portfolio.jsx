@@ -1,4 +1,3 @@
-import React from "react";
 import arrowTopRight from "../assets/icons/arrow-top-right.svg";
 import mediformers from "../assets/img/mediformers.png";
 import lingualink from "../assets/img/lingualink.png";

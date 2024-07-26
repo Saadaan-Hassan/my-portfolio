@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function CustomIconButton({ link, svg, background = false }) {
 	return (
 		<a href={link} target='_blank' rel='noreferrer'>

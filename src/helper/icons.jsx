@@ -85,8 +85,8 @@ export const X_SVG = (
 				x2='16'
 				y2='27.3333'
 				gradientUnits='userSpaceOnUse'>
-				<stop stop-color='#FBEC5D' />
-				<stop offset='1' stop-color='#FFC000' />
+				<stop stopColor='#FBEC5D' />
+				<stop offset='1' stopColor='#FFC000' />
 			</linearGradient>
 		</defs>
 	</svg>
@@ -119,8 +119,8 @@ export const INSTAGRAM_SVG = (
 				x2='15.9987'
 				y2='22.1667'
 				gradientUnits='userSpaceOnUse'>
-				<stop stop-color='#FBEC5D' />
-				<stop offset='1' stop-color='#FFC000' />
+				<stop stopColor='#FBEC5D' />
+				<stop offset='1' stopColor='#FFC000' />
 			</linearGradient>
 			<linearGradient
 				id='paint1_linear_1_357'
@@ -129,8 +129,8 @@ export const INSTAGRAM_SVG = (
 				x2='22.408'
 				y2='11.0467'
 				gradientUnits='userSpaceOnUse'>
-				<stop stop-color='#FBEC5D' />
-				<stop offset='1' stop-color='#FFC000' />
+				<stop stopColor='#FBEC5D' />
+				<stop offset='1' stopColor='#FFC000' />
 			</linearGradient>
 			<linearGradient
 				id='paint2_linear_1_357'
@@ -139,8 +139,8 @@ export const INSTAGRAM_SVG = (
 				x2='16.008'
 				y2='28.0547'
 				gradientUnits='userSpaceOnUse'>
-				<stop stop-color='#FBEC5D' />
-				<stop offset='1' stop-color='#FFC000' />
+				<stop stopColor='#FBEC5D' />
+				<stop offset='1' stopColor='#FFC000' />
 			</linearGradient>
 		</defs>
 	</svg>
@@ -350,7 +350,7 @@ export const EXPRESSJS_SVG = (
 		</defs>
 		<g
 			fill='url(#color-1_PZQVBAxaueDJ_gr1)'
-			fill-rule='nonzero'
+			fillRule='nonzero'
 			stroke='none'
 			strokeWidth='1'
 			strokeLinecap='butt'
@@ -406,7 +406,7 @@ export const POSTGRESQL_SVG = (
 		viewBox='0,0,256,256'>
 		<g
 			fill='none'
-			fill-rule='nonzero'
+			fillRule='nonzero'
 			stroke='none'
 			strokeWidth='1'
 			strokeLinecap='butt'
@@ -455,7 +455,7 @@ export const MYSQL_SVG = (
 			strokeMiterlimit='10'
 			strokeDasharray=''
 			strokeDashoffset='0'
-			font-family='none'
+			fontFamily='none'
 			fontWeight='none'
 			fontSize='none'
 			textAnchor='none'
@@ -477,7 +477,7 @@ export const FIREBASE_SVG = (
 		viewBox='0,0,256,256'>
 		<g
 			fill='none'
-			fill-rule='nonzero'
+			fillRule='nonzero'
 			stroke='none'
 			strokeWidth='1'
 			strokeLinecap='butt'
@@ -496,11 +496,11 @@ export const FIREBASE_SVG = (
 					fill='#fdfdfd'></path>
 				<path
 					d='M8,36.992l5.546,-34.199c0.145,-0.895 1.347,-1.089 1.767,-0.285l10.687,20.484z'
-					fill-opacity='0.21961'
+					fillOpacity='0.21961'
 					fill='#323538'></path>
 				<path
 					d='M8.008,36.986l0.2,-0.157l17.529,-14.341l-4.944,-9.476z'
-					fill-opacity='0.12157'
+					fillOpacity='0.12157'
 					fill='#323538'></path>
 				<path
 					d='M8,37l26.666,-25.713c0.559,-0.539 1.492,-0.221 1.606,0.547l3.728,25.166l-15,8.743c-0.609,0.342 -1.352,0.342 -1.961,0z'

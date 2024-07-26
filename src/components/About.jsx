@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function About() {
 	return (
 		<section id='about' className='container mx-auto my-20 px-4 md:px-20'>
@@ -27,10 +25,10 @@ export default function About() {
 								I am a full stack developer based in Pakistan looking for
 								exciting opportunities. Has Computer background. Likes to focus
 								on accessibility when developing. Passionate and curious about
-								solving problems. Currently, I'm exploring Reactjs, Webflow and
-								a bit of Designing. While I am not programming, I enjoy playing
-								football, photography and playing cricket. Learning more to
-								improve skill.
+								solving problems. Currently, I&rsquo;m exploring Reactjs,
+								Webflow and a bit of Designing. While I am not programming, I
+								enjoy playing football, photography and playing cricket.
+								Learning more to improve skill.
 							</p>
 							{/* <a
 								href='#'

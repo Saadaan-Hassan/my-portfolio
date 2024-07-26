@@ -1,4 +1,3 @@
-import React from "react";
 import profileImg from "../assets/img/profile.svg";
 import CustomIconButton from "./custom/CustomIconButton";
 import { LINKEDIN_SVG, GITHUB_SVG, ARROW_TOP_RIGHT_SVG } from "../helper/icons";
